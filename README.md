@@ -1,7 +1,5 @@
-Admin Backend S
+Admin Backend 
 ===================================================
-
-
 Author : Quoc Viet Phung
 
 ## Introduction
