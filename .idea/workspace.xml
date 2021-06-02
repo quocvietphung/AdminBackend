@@ -138,8 +138,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -147,6 +149,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/database/migrations" />
       <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/public" />
@@ -167,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622574605492</updated>
       <workItem from="1622574609549" duration="820000" />
-      <workItem from="1622577726586" duration="522000" />
+      <workItem from="1622577726586" duration="726000" />
     </task>
     <servers />
   </component>
